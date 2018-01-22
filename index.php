@@ -18,6 +18,11 @@ echo "$tervitus maailm!<br>";
 echo "$tervitus maailm!<br>";
 echo $massiiv[0];
 
+if ($bool == true){
+  echo $massiiv;
+} else { echo "Tõeäärtus ei vasta nõutule"; }
+
+
 
 
 
